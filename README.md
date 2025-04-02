@@ -124,7 +124,6 @@
     </style>
 </head>
 <body onload = "startTimer()">
-
     <div id="header">
         <a href="Accueil-En">English</a>
         <a href="CV-Francais">CV</a>
@@ -139,11 +138,9 @@
             <p>
 	Je suis un étudiant au doctorat à l'UQÀM dans le Laboratoire d'Algèbre, de Combinatoire, et d'Informatique Mathématique (LACIM) sous la direction de Christophe Reutenauer.
 	</p>
-
 	<p>
 	J'ai obtenu mon baccalauréat ainsi que ma maitrise à l'UQÀM aussi sous la tutelle de Christophe Reutenauer; on ne change pas une équipe gagnante!
 	</p>
-
 	<h4>
 	Intérêts en recherche:
 	</h4>
@@ -151,44 +148,25 @@
 	Ma recherche est principalement en combinatoire énumérative et algébrique.
 	J'aime bien les monoïdes issues d'objets combinatoires, comme le monoïde plaxique ou le monoïde sylvestre et les algèbres qui y sont associées.
 	</p>
-
 	<p>
 	Voici d'autres sujets pour lesquels j'ai aussi un grand intérêt:<br>
 	<ul style="list-style-type:disc;">
 	  <li>les automates, la théorie des langages et la combinatoire des mots;</li>
-
 	  <li>les groupes de Coxeter; leurs arrangements d'hyperplans, systèmes de racines et les polytopes associés comme les permutohèdres;</li>
-
 	  <li>les ensembles partiellements ordonnés, treillis et leurs polytopes associés;</li>
 	</ul>
 	</p>
-
 	<h3>
 	---  Étant en dernière année de doctorat, je suis présentement à la recherche d'un emploi pour l'année prochaine.  ---
 	</h3>
-
 	<p>
 	Contact: abram.antoine (at) courrier.uqam.ca
 	</p>
         </div>
     </div>
     <div id="navigation">
-<!--        <img src="AntoineAbram2.jpg" style="float:left; padding: 5px 25px 5px 20px" width="350" height="466" alt="Antoine Abram">-->
 	  <img style="float:left; padding: 5px 25px 5px 20px" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram1.jpg"/>
     </div>
-<!--    <div id="extra">
-        <p><strong>3. Additional Stuff</strong></p>
-        <h3>In this guide you will learn:</h3>
-        <ul>
-            <li>How to use CSS Flexbox to build modern layouts</li>
-            <li>How to align items both vertically and horizontally</li>
-            <li>How to order items within container</li>
-            <li>And more</li>
-        </ul>
-    </div>
-    <div id="footer"><p>Footer</p>
-    </div>
--->
 </div>
 <script type="text/javascript">AddFillerLink("content", "navigation", "extra")</script>
 </body>
