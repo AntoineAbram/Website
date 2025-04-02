@@ -5,16 +5,13 @@
               x = (x === images.length - 1) ? 0 : x + 1;
               document.getElementById("img").src = images[x];
           }
-
           function displayPreviousImage() {
               x = (x <= 0) ? images.length - 1 : x - 1;
               document.getElementById("img").src = images[x];
           }
-
           function startTimer() {
               setInterval(displayNextImage, 6000);
           }
-
           var images = [], x = -1;
           images[0] = "Image-AntoineAbram/AntoineAbram1.jpg";
           images[1] = "Image-AntoineAbram/AntoineAbram2.jpg";
@@ -25,49 +22,39 @@
             margin: 0;
             padding: 0;
         }
-
         body {
             color: #292929;
             font: 100% Roboto, Arial, sans-serif;
             font-weight: 300;
         }
-
         p {
             padding: 0 10px;
             line-height: 1.3;
         }
-        
         h4 {
             margin: 0 0 -10px 0 ;
             padding: 0 10px;
             line-height: 1;
         }
-        
         h3 {
             padding: 0 10px;
             line-height: 1;
         }
-            
-
         ul li {
             padding-right: 10px;
             line-height: 1.6;
         }
-
         h3 {
             padding: 5px 20px;
             margin: 0;
         }
-                
         div#container {
             width: 1300px;
             margin: 35px auto;
         }
-
         div#header {
             position: relative;
         }
-
         div#header h1 {
             text-align: center;
             height: 300px;
@@ -77,47 +64,39 @@
             background: #e0e0e0;
             color: #292929;
         }
-
         div#header a {
             float: right;
             top: 23px;
             padding: 10px;
             color: #006;
         }
-
         div#wrapper {
             float: left;
             width: 100%;
         }
-
         div#content {
             margin: 0 0 0 375px;
         }
-
         div#navigation {
             float: left;
             width: 375px;
             margin-left: -1300px;
         }
-        
         div#navigation li {
             list-style: none;
         }
-
         div#extra {
             float: left;
             width: 150px;
             margin-left: -150px;
             background: #147FA9;
         }
-
         div#footer {
             clear: left;
             width: 100%;
             background: #42444e;
             color: #fff;
         }
-        
         div#footer p {
             padding: 20px 10px;
         }
