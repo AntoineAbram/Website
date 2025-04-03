@@ -62,34 +62,7 @@
         div#content {
             margin: 0 0 0 0;
         }
-
-        div#navigation {
-            float: left;
-            width: 375px;
-            margin-left: -1300px;
-        }
         
-        div#navigation li {
-            list-style: none;
-        }
-
-        div#extra {
-            float: left;
-            width: 150px;
-            margin-left: -150px;
-            background: #147FA9;
-        }
-
-        div#footer {
-            clear: left;
-            width: 100%;
-            background: #42444e;
-            color: #fff;
-        }
-        
-        div#footer p {
-            padding: 20px 10px;
-        }
     </style>
 </head>
 <body>
@@ -108,7 +81,6 @@
             <h2>
         Cours enseignés:
             </h2>
-            </h2>
             <ul>
     		<li>Automne 2023: MAT1250 - Algèbre linéaire I</li>
             </ul>
@@ -116,6 +88,3 @@
             J'ai aussi été, au cours de ma maitrise et de mon doctorat, auxiliaire d'enseignement pour de nombreux cours tels que des cours d'algèbre linéaire, d'analyse, de théorie des anneaux et des corps, de mathématiques discrètes et autres cours de niveau baccalauréat.
             </p>
 </div>
-<script type="text/javascript">AddFillerLink("content", "navigation", "extra")</script>
-</body>
-</html>

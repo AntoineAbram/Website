@@ -93,8 +93,7 @@
     </style>
 </head>
 <body>
-
-    <div id="header">
+	<div id="header">
         <a href="CV-Anglais">English</a>
         <a href="CV-Francais">CV</a>
         <a href="Enseignement">Enseignement</a>
@@ -103,30 +102,11 @@
         <h1>Curriculum Vitæ</h1>
     </div>
     <div id="container">
-    <div id="wrapper">
-        <div id="content">
-            <object data="CV/Antoine_Abram-CV-fr.pdf" type="application/pdf" width="100%" height="1370px">
-            <p>Unable to display PDF file. <a href="Antoine_Abram-CV-fr.pdf">Download</a> instead.</p>
-            </object>
-    </div>
-<!--    <div id="navigation">
-        <img src="AntoineAbram2.jpg" style="float:left; padding: 5px 25px 5px 20px" width="350" height="466" alt="Antoine Abram">
-    </div>
--->
-<!--    <div id="extra">
-        <p><strong>3. Additional Stuff</strong></p>
-        <h3>In this guide you will learn:</h3>
-        <ul>
-            <li>How to use CSS Flexbox to build modern layouts</li>
-            <li>How to align items both vertically and horizontally</li>
-            <li>How to order items within container</li>
-            <li>And more</li>
-        </ul>
-    </div>
-    <div id="footer"><p>Footer</p>
-    </div>
--->
-</div>
-<script type="text/javascript">AddFillerLink("content", "navigation", "extra")</script>
-</body>
-</html>
+    	<div id="wrapper">
+    	    <div id="content">
+    	        <object data="CV/Antoine_Abram-CV-fr.pdf" type="application/pdf" width="100%" height="1370px">
+            		<p>Unable to display PDF file. <a href="Antoine_Abram-CV-fr.pdf">Download</a> instead.</p>
+            	</object>
+    		</div>
+		</div>
+	</div>
