@@ -6,6 +6,12 @@
             margin: 0;
             padding: 0;
         }
+        
+        h1 {
+        	font-family: 'Trebuchet', sans-serif;
+        	font-size: 5em;
+			font-weight: 500;
+        }
 
         body {
             color: #292929;

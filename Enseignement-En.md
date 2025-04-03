@@ -1,10 +1,16 @@
 <html lang="en">
 <head>
-    <title>Antoine Abram - Enseignement</title>
+    <title>Antoine Abram - Teaching</title>
     <style type="text/css">
         html, body {
             margin: 0;
             padding: 0;
+        }
+        
+        h1 {
+        	font-family: 'Trebuchet', sans-serif;
+        	font-size: 5em;
+			font-weight: 500;
         }
 
         body {

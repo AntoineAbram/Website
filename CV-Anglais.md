@@ -6,6 +6,12 @@
             margin: 0;
             padding: 0;
         }
+        
+        h1 {
+        	font-family: 'Trebuchet', sans-serif;
+        	font-size: 5em;
+			font-weight: 500;
+        }
 
         body {
             color: #292929;
@@ -99,7 +105,7 @@
         <a href="Enseignement-En">Teaching</a>
         <a href="Recherche-En">Research</a>
         <a href="Accueil-En">Home</a>
-        <h1>Curriculum Vitæ</h1>
+        <h1>Curriculum&nbsp;Vitæ</h1>
     </div>
     <div id="container">
     	<div id="wrapper">
