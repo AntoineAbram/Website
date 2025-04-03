@@ -22,6 +22,10 @@
           images[2] = "Image-AntoineAbram/AntoineAbram4.jpg";
 	</script>
 	<style type="text/css">
+		 img {
+		 object-fit: cover;
+		 }
+		
         html, body {
             margin: 0;
             padding: 0;
@@ -62,7 +66,10 @@
 
         div#header {
             position: relative;
-        }
+			width:100%;
+			background-image:url("Image-AntoineAbram/ArrierePlan1.jpg");
+			background-size: cover;
+		}
 
         div#header h1 {
         	font-family: 'Trebuchet', sans-serif;
@@ -73,7 +80,6 @@
             line-height: 300px;
             margin: 0;
             padding: 25px 500px 25px 500px;
-            background: #e0e0e0;
             color: #292929;
         }
 
@@ -120,6 +126,7 @@
         div#footer p {
             padding: 20px 10px;
         }
+        
     </style>
 </head>
 <body onload = "startTimer()">
@@ -160,6 +167,6 @@
 			</div>
     	</div>
     	<div id="navigation">
-			<img style="float:left; padding: 5px 25px 5px 20px" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram1.jpg"/>
+			<img style="float:left; padding: 5px 25px 5px 20px;" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram4.jpg"/>
 		</div>
 	</div>
