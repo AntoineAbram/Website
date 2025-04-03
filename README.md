@@ -22,6 +22,10 @@
           images[2] = "Image-AntoineAbram/AntoineAbram4.jpg";
 	</script>
 	<style type="text/css">
+		 img {
+		 object-fit: cover;
+		 }
+		
         html, body {
             margin: 0;
             padding: 0;
@@ -120,6 +124,7 @@
         div#footer p {
             padding: 20px 10px;
         }
+        
     </style>
 </head>
 <body onload = "startTimer()">
@@ -160,6 +165,6 @@
 			</div>
     	</div>
     	<div id="navigation">
-			<img style="float:left; padding: 5px 25px 5px 20px" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram1.jpg"/>
+			<img style="float:left; padding: 5px 25px 5px 20px;" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram2.jpg"/>
 		</div>
 	</div>
