@@ -111,18 +111,18 @@
             Ongoing projects:
         	    </h2>
 	            <ul>
-    				<li>Abram, A.; Bastidas, J.: Alcoved Signed Permutations</li>
-    				<li>Abram, A.; Hivert F.; Mitchell, J.; Novelli, J.-C.; Tsalakou, M.: Power Quotient of Plactic-Like Monoids</li>
-    				<li>Abram, A.; Bastidas, J.; Brauner, S.; Dequêne, B.;  Morales, A.; Park, G; Saliola, F.; Thomas, H.: DKK-triangulation of Flow Fan for Graphs with Cycles,</li>
-    				<li>Abram, A.; L. Gagnon: Excedances and Dyck Path Fillings,</li>
-    				<li>Abram, A.; Chapelier-Laget, N.; Segovia, A.: Dimension of Unicyclic Poset.</li>
-    				<li>Abram, A.; Bastidas, J.; Gélinas, F.; Pilaud, V.; Sack, A.; Tzanaki, E.: Hypergraphic Polytopes.</li>
+    				<li>Abram, A. & Bastidas, J.: Alcoved Signed Permutations</li>
+    				<li>Abram, A.; Hivert F.; Mitchell, J.; Novelli, J.-C. & Tsalakou, M.: Power Quotient of Plactic-Like Monoids</li>
+    				<li>Abram, A.; Bastidas, J.; Brauner, S.; Dequêne, B.;  Morales, A.; Park, G; Saliola, F. & Thomas, H.: DKK-triangulation of Flow Fan for Graphs with Cycles,</li>
+    				<li>Abram, A. & L. Gagnon: Excedances and Dyck Path Fillings,</li>
+    				<li>Abram, A. & Segovia, A.: Dimension of Unicyclic Poset.</li>
+    				<li>Abram, A.; Bastidas, J.; Gélinas, F.; Pilaud, V.; Sack, A. & Tzanaki, E.: Hypergraphic Polytopes.</li>
     	        </ul>
     	        <h2>
 	Publications:
     	        </h2>
             	<ul>
-    				<li>Abram, A., Hu, Y., and Li, S. (2024) “Block-counting sequences are not purely morphic”. In: Advances in Applied Mathematics 155, p. 102673. 
+    				<li>Abram, A., Hu, Y., & Li, S. (2024) “Block-counting sequences are not purely morphic”. In: Advances in Applied Mathematics 155, p. 102673. 
 <a href="https://doi.org/10.1016/j.aam.2024.102673" target="_blank">DOI</a></li>
     				<li>Abram, A., Reutenauer, C., & Saliola, F. V. (2023). Quivers of stylic algebras. Algebr. Comb., 6(6), 1621–1635. <a href="https://doi.org/10.5802/alco.321" target="_blank">DOI</a></li>
     				<li>Abram, A., & Reutenauer, C. (2023). On a lemma of Schensted. Enumer. Comb. Appl., 3(3), Paper No. S2R19, 7. <a href="https://doi.org/10.54550/eca2023v3s3r19" target="_blank">DOI</a></li>

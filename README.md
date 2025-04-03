@@ -167,6 +167,6 @@
 			</div>
     	</div>
     	<div id="navigation">
-			<img style="float:left; padding: 5px 25px 5px 20px;" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram4.jpg"/>
+			<img style="float:left; padding: 5px 25px 5px 20px;" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram2.jpg"/>
 		</div>
 	</div>

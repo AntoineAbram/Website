@@ -22,6 +22,10 @@
           images[2] = "Image-AntoineAbram/AntoineAbram4.jpg";
 	</script>
 	<style type="text/css">
+	img {
+	object-fit: cover;
+	}
+ 	
         html, body {
             margin: 0;
             padding: 0;
