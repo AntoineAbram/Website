@@ -22,15 +22,13 @@
           images[2] = "Image-AntoineAbram/AntoineAbram4.jpg";
 	</script>
 	<style type="text/css">
+		 img {
+		 object-fit: cover;
+		 }
+		
         html, body {
             margin: 0;
             padding: 0;
-        }
-        
-        h1 {
-        	font-family: 'Trebuchet', sans-serif;
-        	font-size: 5em;
-			font-weight: 500;
         }
         
         body {
@@ -71,11 +69,14 @@
         }
 
         div#header h1 {
+        	font-family: 'Trebuchet', sans-serif;
+        	font-size: 5em;
+			font-weight: 500;
             text-align: center;
             height: 300px;
             line-height: 300px;
             margin: 0;
-            padding: 25px 700px 25px 700px;
+            padding: 25px 500px 25px 500px;
             background: #e0e0e0;
             color: #292929;
         }
@@ -123,6 +124,7 @@
         div#footer p {
             padding: 20px 10px;
         }
+        
     </style>
 </head>
 <body onload = "startTimer()">
@@ -163,6 +165,6 @@
 			</div>
     	</div>
     	<div id="navigation">
-			<img style="float:left; padding: 5px 25px 5px 20px" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram1.jpg"/>
+			<img style="float:left; padding: 5px 25px 5px 20px;" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram4.jpg"/>
 		</div>
 	</div>
