@@ -20,8 +20,8 @@
           images[0] = "Image-AntoineAbram/AntoineAbram1.jpg";
           images[1] = "Image-AntoineAbram/AntoineAbram2.jpg";
           images[2] = "Image-AntoineAbram/AntoineAbram4.jpg";
-      </script>
-    <style type="text/css">
+	</script>
+	<style type="text/css">
         html, body {
             margin: 0;
             padding: 0;
@@ -125,8 +125,7 @@
     </style>
 </head>
 <body onload = "startTimer()">
-
-    <div id="header">
+	<div id="header">
         <a href="Accueil">Français</a>
         <a href="CV-Anglais">CV</a>
         <a href="Enseignement-En">Teaching</a>
@@ -135,62 +134,39 @@
         <h1>Antoine Abram</h1>
     </div>
     <div id="container">
-    <div id="wrapper">
-        <div id="content">
-            <p>
+    	<div id="wrapper">
+        	<div id="content">
+        	    <p>
 	I am a PhD student at UQÀM in the Laboratory of Algebra, Combinatorics, and Mathematical Computing (LACIM) under the direction of Christophe Reutenauer. 
-	</p>
-
-	<p>
+				</p>
+				<p>
 	I obtained my bachelor's degree as well as my master's degree at UQÀM also under the direction of Christophe Reutenauer; you don't change a winning team!
-	</p>
-
-	<h4>
+				</p>
+				<h4>
 	Research interests:
-	</h4>
-	<p>
+				</h4>
+				<p>
 	My research are in enumerative and algebraic combinatorics. I have a strong interest in monoids defined by means of insertions, like the plactic monoid or the sylvester monoid, and their associated algebras.
+				</p>
 
-	</p>
-
-	<p>
+				<p>
 	Here is a list of other topics in which I also have a great interest:<br>
-	<ul style="list-style-type:disc;">
-	  <li>Automata, language theory and combinatorics on words;</li>
+					<ul style="list-style-type:disc;">
+						<li>Automata, language theory and combinatorics on words;</li>
+	  					<li>Coxeter groups; their arrangements of hyperplanes, root systems and associated polytopes such as permutahedrons;</li>
+						<li>partially ordered sets, lattices and their associated polytopes;</li>
+					</ul>
+				</p>
 
-	  <li>Coxeter groups; their arrangements of hyperplanes, root systems and associated polytopes such as permutahedrons;</li>
-
-	  <li>partially ordered sets, lattices and their associated polytopes;</li>
-	</ul>
-	</p>
-
-	<h3>
-	---  Being in the last year of my PhD, I am currently looking for a job for next year.  ---
-	</h3>
-
-	<p>
+				<h3>
+				---  Being in the last year of my PhD, I am currently looking for a job for next year.  ---
+				</h3>
+				<p>
 	Contact: abram.antoine (at) courrier.uqam.ca
-	</p>
-        </div>
-    </div>
-    <div id="navigation">
-<!--        <img src="AntoineAbram2.jpg" style="float:left; padding: 5px 25px 5px 20px" width="350" height="466" alt="Antoine Abram">-->
-	  <img style="float:left; padding: 5px 25px 5px 20px" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram1.jpg"/>
-    </div>
-<!--    <div id="extra">
-        <p><strong>3. Additional Stuff</strong></p>
-        <h3>In this guide you will learn:</h3>
-        <ul>
-            <li>How to use CSS Flexbox to build modern layouts</li>
-            <li>How to align items both vertically and horizontally</li>
-            <li>How to order items within container</li>
-            <li>And more</li>
-        </ul>
-    </div>
-    <div id="footer"><p>Footer</p>
-    </div>
--->
-</div>
-<script type="text/javascript">AddFillerLink("content", "navigation", "extra")</script>
-</body>
-</html>
+				</p>
+	        </div>
+    	</div>
+    	<div id="navigation">
+			<img style="float:left; padding: 5px 25px 5px 20px" width="350" height="466" alt="Antoine Abram" id="img" src="Image-AntoineAbram/AntoineAbram1.jpg"/>
+    	</div>
+	</div>

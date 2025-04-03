@@ -93,7 +93,6 @@
     </style>
 </head>
 <body>
-
     <div id="header">
         <a href="Enseignement">Français</a>
         <a href="CV-Anglais">CV</a>
@@ -103,19 +102,17 @@
         <h1>Teaching</h1>
     </div>
     <div id="container">
-    <div id="wrapper">
-        <div id="content">
-            <h2>
+    	<div id="wrapper">
+        	<div id="content">
+        	    <h2>
         Past courses:
-            </h2>
-            </h2>
-            <ul>
-    		<li>Fall 2023: MAT1250 - Linear Algebra I</li>
-            </ul>
-            <p>
+        	    </h2>
+        	    <ul>
+    				<li>Fall 2023: MAT1250 - Linear Algebra I</li>
+            	</ul>
+            	<p>
             During my master's and doctoral studies, I was also a teaching assistant for many courses such as linear algebra, analysis, ring and field theory, discrete mathematics and other undergraduate courses. 
-            </p>
-</div>
-<script type="text/javascript">AddFillerLink("content", "navigation", "extra")</script>
-</body>
-</html>
+            	</p>
+			</div>
+		</div>
+	</div>
