@@ -1,3 +1,5 @@
+<!DOCTYPE HTML>
+<html lang="fr">
 <head>
     <title>Antoine Abram</title>
     <script type = "text/javascript">
@@ -192,3 +194,4 @@
 </div>
 <script type="text/javascript">AddFillerLink("content", "navigation", "extra")</script>
 </body>
+</html>

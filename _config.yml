@@ -1,0 +1,16 @@
+plugins:
+
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - Accueil.md
+  - CV-Francais.md
+  - Enseignement.md
+  - Recherche.md
+  - Accueil-En.md
+  - CV-Anglais.md
+  - Enseignement-En.md
+  - Recherche-En.md
+
+theme:
