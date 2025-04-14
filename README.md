@@ -65,6 +65,11 @@
             margin: 35px auto;
         }
 	
+	.header {
+	width: 100%;
+	min-width: 100%;
+	}
+	
         div#header {
             position: relative;
 			width:100%;
