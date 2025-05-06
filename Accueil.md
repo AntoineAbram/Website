@@ -21,6 +21,7 @@
           images[1] = "Image-AntoineAbram/AntoineAbram2.jpg";
           images[2] = "Image-AntoineAbram/AntoineAbram4.jpg";
 	</script>
+	<meta name="viewport" content="width=800" />
 	<style type="text/css">
 		 img {
 		 object-fit: cover;
