@@ -67,7 +67,6 @@
 
         div#header {
             position: relative;
-			width:100%;
 			background-image:url("Image-AntoineAbram/ArrierePlan1.jpg");
 			background-size: cover;
 		}

@@ -1,7 +1,8 @@
 <html lang="fr">
 <head>
-    <title>Antoine Abram</title>
-    <script type = "text/javascript">
+	<title>Antoine Abram</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<script type = "text/javascript">
           function displayNextImage() {
               x = (x === images.length - 1) ? 0 : x + 1;
               document.getElementById("img").src = images[x];
@@ -63,7 +64,12 @@
             width: 1300px;
             margin: 35px auto;
         }
-
+	
+	.header {
+	width: 100%;
+	min-width: 100%;
+	}
+	
         div#header {
             position: relative;
 			width:100%;
